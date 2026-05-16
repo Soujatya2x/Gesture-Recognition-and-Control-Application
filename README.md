@@ -1,4 +1,4 @@
-# Project Name
+# Gesture Recognition and Control Application
 
 > A short, punchy tagline that describes what your project does.
 

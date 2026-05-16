@@ -35,7 +35,7 @@ Example:
 
 ---
 
-## Demo
+-- ## Demo
 
 <!-- Include a screenshot, GIF, or link to a live demo -->
 
@@ -83,31 +83,6 @@ pip install requirements.txt
 ```
 
 ---
-
-## Usage
-
-Show the most common use case first. Add more examples below as needed.
-
-```bash
-# Basic usage
-npm start
-
-# Run with options
-npm run build --flag value
-```
-
----
-
-<!-- ## Roadmap
-
-- [x] Initial release
-- [x] Add configuration support
-- [ ] Add plugin system
-- [ ] Improve error messages
-- [ ] Publish to npm registry
-
-See [open issues](https://github.com/yourusername/project-name/issues) for a full list of proposed features and known bugs.
-
 --- -->
 
 ---
